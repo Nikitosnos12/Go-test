@@ -12,6 +12,7 @@ func main() {
 	fmt.Println("другой способ")
 
 	for i := 0; i <= 5; i++ {
+		//print i
 		fmt.Println(i)
 	}
 
