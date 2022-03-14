@@ -8,6 +8,7 @@ func main() {
 		fmt.Println(i)
 		i = i + 1
 	}
+	// another code
 
 	fmt.Println("другой способ")
 
